@@ -20,7 +20,7 @@
             <!-- Header -->
             <div class="bg-gradient-to-r from-indigo-500 to-purple-600 p-6 text-center">
                 <i data-feather="user-plus" class="w-12 h-12 text-white mx-auto"></i>
-                <h1 class="text-2xl font-bold text-white mt-4">PixelPass Portal</h1>
+                <h1 class="text-2xl font-bold text-white mt-4">FarmaVital</h1>
                 <p class="text-indigo-100 mt-1">Create your account</p>
             </div>
             

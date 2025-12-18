@@ -1,6 +1,6 @@
 <aside class="sidebar">
     <div class="sidebar-header">
-        <h1 class="sidebar-title">Admin</h1>
+        <h1 class="sidebar-title">Admin FarmaVital</h1>
     </div>
     <div class="sidebar-content">
         <div class="modules-section">

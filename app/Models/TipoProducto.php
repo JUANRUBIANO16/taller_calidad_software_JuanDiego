@@ -21,3 +21,5 @@ class TipoProducto extends Model
     }
 }
 
+
+

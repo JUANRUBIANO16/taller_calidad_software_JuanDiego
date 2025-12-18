@@ -32,8 +32,8 @@
             <!-- Header -->
             <div class="bg-primary p-6 text-center">
                 <i data-feather="lock" class="w-12 h-12 text-white mx-auto"></i>
-                <h1 class="text-2xl font-bold text-white mt-4">PixelPass Portal</h1>
-                <p class="text-primary-100 mt-1">Secure access to your digital world</p>
+                <h1 class="text-2xl font-bold text-white mt-4">FarmaVital</h1>
+                <p class="text-primary-100 mt-1"></p>
             </div>
             
             <!-- Form -->
